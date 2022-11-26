@@ -12,6 +12,7 @@ body {
   width: 560px;
   padding: 20px;
   margin: 20px;
+  justify-content: space-between;
 }
 
 .MovieList form {

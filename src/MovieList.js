@@ -47,6 +47,12 @@ function MovieList() {
 
   const handleSubmit = (event) => {
     AddMovie();
+    if (FilterState == 0) strAscending();
+    else if (FilterState == 1) strDescending();
+    else if (FilterState == 2) ratAscending();
+    else if (FilterState == 3) ratDescending();
+    else strAscending();
+
     setName("");
     setDescription("");
     setPosterURL("");
