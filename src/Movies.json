@@ -1,0 +1,42 @@
+[
+    {
+    "id": 0,
+    "title": "Dora",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi veniam alias, magnam provident exercitationem officia voluptates nostrum non, dicta sapiente, deserunt blanditiis quos saepe facilis at! Necessitatibus quaerat quasi exercitationem.",
+    "posterURL":
+      "https://cdn.shopify.com/s/files/1/0969/9128/products/Dora_The_Explorer_And_The_Lost_City_Of_Gold_-_Hollywood_English_Movie_Poster_1_66c87e56-24a2-4135-b709-a6b98a7f7bce.jpg?v=1577693664",
+    "rating": 3.5,
+    "trailer": "https://youtube.com/embed/gUTtJjV852c"
+  },
+  {
+    "id": 1,
+    "title": "Shrek",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi veniam alias, magnam provident exercitationem officia voluptates nostrum non, dicta sapiente, deserunt blanditiis quos saepe facilis at! Necessitatibus quaerat quasi exercitationem.",
+    "posterURL":
+      "https://images.squarespace-cdn.com/content/v1/5acd17597c93273e08da4786/1547847934765-ZOU5KGSHYT6UVL6O5E5J/Shrek+Poster.png",
+    "rating": 4.5,
+    "trailer": "https://youtube.com/embed/CwXOrWvPBPk"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi veniam alias, magnam provident exercitationem officia voluptates nostrum non, dicta sapiente, deserunt blanditiis quos saepe facilis at! Necessitatibus quaerat quasi exercitationem.",
+    "posterURL":
+      "https://blog.simplified.com/wp-content/uploads/2021/06/harry-potter-and-the-sorcerers-stone.png",
+    "rating": 5,
+    "trailer": "https://youtube.com/embed/VyHV0BRtdxo"
+  },
+  {
+    "id": 3,
+    "title": "Back to the Future",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi veniam alias, magnam provident exercitationem officia voluptates nostrum non, dicta sapiente, deserunt blanditiis quos saepe facilis at! Necessitatibus quaerat quasi exercitationem.",
+    "posterURL":
+      "https://m.media-amazon.com/images/I/71BPuv+iRbL.jpg",
+    "rating": 4.5,
+    "trailer": "https://youtube.com/embed/qvsgGtivCgs"
+  }
+]
